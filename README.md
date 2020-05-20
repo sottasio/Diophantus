@@ -11,10 +11,10 @@ This software was built with Java SE 7, Swing and Eclipse as an IDE.<br/>
 In order to run this software, Java must be installed on your computer.<br/>
 Για να τρέξει η εφαρμογή, θα πρέπει να είναι εγκατεστημένη Java στον υπολογιστή μας.
 # Use of this software
-A demonstrating video can be downloaded here:<br/>
-Ένα βίντεο που επιδεικνύει τις δυνατότητες του προγράμματος μπορεί να κατεβεί από το παρακάτω λινκ:
+A test version of this programm can be downloaded here:<br/>
+Μία δοκιμαστική έκδοση του προγράμματος μπορεί να κατεβεί από το παρακάτω λινκ:
 
-http://www.mediafire.com/file/timhbu7p64lwd3z/Diophantus_github.mkv/file
+https://bit.ly/2T7X4E7
 
 A seperate help file is also included to make the first steps in using this software (only in Greek language):<br/>
 Αρχείο βοήθειας μπορεί να κατέβει από το εξής λινκ:
