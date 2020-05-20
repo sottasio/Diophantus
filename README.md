@@ -14,7 +14,7 @@ In order to run this software, Java must be installed on your computer.<br/>
 A test version and a help file of this programm can be downloaded here:<br/>
 Μία δοκιμαστική έκδοση του προγράμματος, μαζί με αρχείο βοήθειας, μπορεί να κατεβεί από το παρακάτω λινκ:
 
-https://bit.ly/2T7X4E7
+https://bit.ly/3e1l1Vj
 
 
 # Credits
