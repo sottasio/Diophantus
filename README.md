@@ -16,6 +16,14 @@ A test version and a help file of this programm can be downloaded here:<br/>
 
 https://bit.ly/3e1l1Vj
 
+# Screenshots
+
+<a href="https://ibb.co/V9mNsNn"><img src="https://i.ibb.co/JtQd9d6/p1.jpg" alt="p1" border="0" /></a>
+
+<a href="https://ibb.co/Hnm8V9N"><img src="https://i.ibb.co/kQYCxP3/p2.jpg" alt="p2" border="0" /></a>
+
+<a href="https://ibb.co/7GspJT5"><img src="https://i.ibb.co/64jtRpx/p3.jpg" alt="p3" border="0" /></a>
+
 
 # Credits
 I would like to thank all who helped with new ideas about this software, basically bettors in betting forums.
