@@ -3,18 +3,16 @@ Diophantus is a software for betting in soccer and basketball games for OPAP S.A
 Το Diophantus είναι μία εφαρμογή, που βοηθά παίκτες που θέλουν να στοιχηματίσουν σε ποδοσφαιρικά και παιχνίδια μπάσκετ στον ΟΠΑΠ και να εκτυπώσουν σε δελτία τις επιλογές τους.
 # Motivation
 This piece of software, was built to help people who wish to bet in soccer and basketball games to download betting matches and odds, select their markets, create combinations, discard less winning possible combinations and finally print their selections.<br/>
-Η εφαρμογή αναπτύχθηκε για να κάνει πιο εύκολο το κατέβασμα αγώνων από τη σελίδα του ΟΠΑΠ, την επιλογή στοιχηματικών αγορών, τη δημιουργία συνδυασμών διαφόρων επιλογών, την απαλοιφή λιγότερο πιθανών συνδυασμών με βάση την πρόβλεψη κ.ά. Τέλος, την εκτύπωση αυτών για να περαστούν στις τερματικές μηχανές του ΟΠΑΠ.
+Η εφαρμογή αναπτύχθηκε για να κάνει πιο εύκολο το κατέβασμα αγώνων στοιχήματος από τη σελίδα του ΟΠΑΠ, την επιλογή στοιχηματικών αγορών, τη δημιουργία συνδυασμών διαφόρων επιλογών, την απαλοιφή λιγότερο πιθανών συνδυασμών με βάση την πρόβλεψη , τη διαλογή δελτίων κλπ. Τέλος, την εκτύπωση αυτών για να περαστούν στις τερματικές μηχανές του ΟΠΑΠ.
 # Technology used
-This software was built with Java SE 7, Swing and Eclipse as an IDE.<br/>
-Η εφαρμογή αναπτύχθηκε με Java SE 7, Swing και Eclipse.
+This software was built with Java SE 7 and Eclipse as an IDE.<br/>
+Η εφαρμογή αναπτύχθηκε με Java SE 7  και Eclipse.
 # Running this software
 In order to run this software, Java must be installed on your computer.<br/>
-Για να τρέξει η εφαρμογή, θα πρέπει να είναι εγκατεστημένη Java στον υπολογιστή μας.
+Για να τρέξει η εφαρμογή, θα πρέπει να είναι εγκατεστημένη Java στον υπολογιστή σας.
 # Use of this software
-A test version and a help file of this programm can be downloaded here:<br/>
-Μία δοκιμαστική έκδοση του προγράμματος, μαζί με αρχείο βοήθειας, μπορεί να κατεβεί από το παρακάτω λινκ:
-
-http://bit.ly/3vpgWUF
+If you want a limited version of this software, please email me at sottasio at gmail.com.
+Αν θέλετε μία δοκιμαστική έκδοση του προγράμματος, στείλτε ένα μήνυμα στο μέιλ μου στο sottasio at gmail.com.
 
 # Screenshots
 
