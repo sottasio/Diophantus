@@ -12,7 +12,7 @@ In order to run this software, Java must be installed on your computer.<br/>
 Για να τρέξει η εφαρμογή, θα πρέπει να είναι εγκατεστημένη Java στον υπολογιστή σας.
 # Use of this software
 If you want a limited version of this software, please email me at sottasio at gmail.com.<br>
-Αν θέλετε μία δοκιμαστική έκδοση του προγράμματος, στείλτε ένα μήνυμα στο μέιλ μου στο sottasio at gmail.com.
+Αν θέλετε μία δοκιμαστική έκδοση του προγράμματος, στείλτε ένα μήνυμα στο sottasio at gmail.com.
 
 # Screenshots
 
